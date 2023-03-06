@@ -1,0 +1,35 @@
+.center_card {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.text-left{
+    text-align: left;
+    color: blue;
+}
+.text-right{
+    text-align: right;
+    color: blue;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+.bg-yealow{
+    background-color: yellow;
+}
+.bg-orange{
+    background-color: orange;
+}
+table{
+    border-collapse: collapse;
+}
+.border-tb{
+    border: 1px solid black;
+    
+}
+.stt{
+    text-align: center;
+    width: 30px;
+
+}
